@@ -30,9 +30,9 @@ bin/setup # Run the setup script to use the test credentials.
 open http://localhost:3000
 ```
 
-### Option C: Heroku
+### Option C: Build.io
 
-Simple setup, no dependencies, but slow to develop.
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zendesk/samson)
 
